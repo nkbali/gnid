@@ -1,2 +1,2 @@
 gnid: gnid.c
-        cc gnid.c -o gnid
+    cc gnid.c -o gnid
